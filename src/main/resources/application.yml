@@ -1,0 +1,5 @@
+spring:
+  security:
+    user:
+      name: shehan
+      password: shehan@123
